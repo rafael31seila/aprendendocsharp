@@ -1,0 +1,7 @@
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\obj\Debug\cap02_ex01.csproj.AssemblyReference.cache
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\obj\Debug\cap02_ex01.csproj.CoreCompileInputs.cache
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\bin\Debug\cap02_ex01.exe.config
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\bin\Debug\cap02_ex01.exe
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\bin\Debug\cap02_ex01.pdb
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\obj\Debug\cap02_ex01.exe
+C:\Users\rafael.dcandido\source\repos\aprendendo c#\cap02_ex01\obj\Debug\cap02_ex01.pdb
